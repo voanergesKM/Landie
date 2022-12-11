@@ -1,12 +1,13 @@
 {
   "main.css": "static/css/main.c07c1551.css",
   "main.css.map": "static/css/main.c07c1551.css.map",
-  "main.js": "static/js/main.0048f957.js",
-  "main.js.map": "static/js/main.0048f957.js.map",
+  "main.js": "static/js/main.1c84eb51.js",
+  "main.js.map": "static/js/main.1c84eb51.js.map",
   "static/media/aboutBg.png": "static/media/aboutBg.da6272fc.png",
   "static/media/aboutCardIcon.svg": "static/media/aboutCardIcon.379fdd8f.svg",
   "static/media/featureOne.png": "static/media/featureOne.5feb6cac.png",
   "static/media/featureThree.png": "static/media/featureThree.06fd6909.png",
   "static/media/featureTwo.png": "static/media/featureTwo.d7bebffb.png",
-  "static/media/heroBg.png": "static/media/heroBg.d0171acc.png"
+  "static/media/heroBg.png": "static/media/heroBg.d0171acc.png",
+  "static/media/priceBg.png": "static/media/priceBg.c324cca2.png"
 }

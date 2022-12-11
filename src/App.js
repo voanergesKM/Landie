@@ -5,6 +5,7 @@ import { HeroSection } from './components/Hero/HeroSection';
 import { About } from './components/About/AboutSection';
 import { FeaturesSection } from './components/Features/FeaturesSection';
 import { PriceSection } from './components/Price/PriceSection';
+import { Footer } from './components/Footer/Footer';
 
 export const App = () => {
   return (
@@ -16,6 +17,7 @@ export const App = () => {
         <FeaturesSection />
         <PriceSection />
       </Box>
+      <Footer />
     </Box>
   );
 };
