@@ -18,6 +18,7 @@ export const theme = {
     heroText: '#505F98',
     mainText: '#6F7CB2',
     secondaryText: '#5D6970',
+    priceAccent: '#222f65',
   },
 
   lineHeights: {

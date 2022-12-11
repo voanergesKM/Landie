@@ -4,6 +4,7 @@ import { AppBar } from './components/AppBar/NavBar';
 import { HeroSection } from './components/Hero/HeroSection';
 import { About } from './components/About/AboutSection';
 import { FeaturesSection } from './components/Features/FeaturesSection';
+import { PriceSection } from './components/Price/PriceSection';
 
 export const App = () => {
   return (
@@ -13,6 +14,7 @@ export const App = () => {
         <HeroSection />
         <About />
         <FeaturesSection />
+        <PriceSection />
       </Box>
     </Box>
   );
